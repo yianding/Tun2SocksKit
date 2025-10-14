@@ -1,7 +1,7 @@
 # Tun2SocksKit
 
 
-This repository is a wrapper and a build workflow for [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
+This repository is a wrapper and a build workflow for [hev-socks5-tunnel](https://github.com/yianding/hev-socks5-tunnel)
 
 ## Original Developer ([arror](https://github.com/arror/))
 This code originally belonged to [arror](https://github.com/arror/). I'm just maintaining and updating it.
